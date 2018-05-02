@@ -1,0 +1,145 @@
+/* ========================================================== */
+/* 			            01. GENERAL LAYOUT                    */
+/* ========================================================== */
+
+body, html {
+    font-size: 100%;
+}
+
+ul, ol {
+    list-style-type: none;
+    list-style-image: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 24px;
+    color: #858585;
+}
+
+ul li, ol li {
+    list-style-type: none;
+    list-style-image: none;
+    font-size: 14px;
+}
+
+ul li i {
+    vertical-align: middle;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #7c8595;
+
+}
+
+a,
+a:hover,
+a:focus {
+    text-decoration: none;
+    outline: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    color: #2F362F;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 34px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+h6 {
+    font-size: 18px;
+}
+
+/*header social and contact*/
+
+.top-intro {
+    background: #343434;
+}
+
+ul.header_social li {
+    float: left;
+    line-height: 100%;
+}
+
+ul.header_social li a i {
+    display: inline-block;
+    padding: 12px;
+    border-right: 1px solid rgba(255, 255, 255, 0.15);
+    font-size: 17px !important;
+    color: #e4f1ef;
+    transition: all .25s ease-in-out;
+}
+
+ul.header_social li a.twitter i:hover {
+    background-color: #4099ff;
+}
+
+ul.header_social li a.pinterest i:hover {
+    background-color: #C92228;
+}
+
+ul.header_social li a.facebook i:hover {
+    background-color: #3b5998;
+}
+
+ul.header_social li a.instagram i:hover {
+    background-color: #6dc993;
+}
+
+ul.header_social li a.skype i:hover {
+    background-color: #00aff0;
+}
+
+ul.header_contact {
+    margin-bottom: 0;
+}
+
+ul.header_contact li {
+    color: #dedede;
+    display: inline-block;
+    line-height: 20px;
+    padding: 10px 0 0 20px;
+}
+
+ul.header_contact li i {
+    display: inline-block;
+    vertical-align: text-top;
+    padding-left: 5px;
+    font-size: 20px !important;
+    color: #dedede;
+}
+
+/* ========================================================== */
+/* 			                 03. HEADER                       */
+/* ========================================================== */
+
+.log
+
+
+
